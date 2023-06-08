@@ -3552,6 +3552,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
 
 .banner.invert .image {
 	background-color: rgba(255, 255, 255, 0.125);
+	opacity: 0.75;
 }
 
 /* Spotlight (transitions) */
